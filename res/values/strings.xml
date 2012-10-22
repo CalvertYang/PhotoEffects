@@ -1,0 +1,16 @@
+<resources>
+
+    <string name="app_name">PhotoEffects</string>
+    <string name="load_picture">Load Picture</string>
+    <string name="save_picture">Save Picture</string>
+    <string name="menu_exit">Exit</string>
+    <!-- Effect List -->
+    <string name="none">None</string>
+    <string name="grayscale">Grayscale</string>
+    <string name="negative">Negative</string>
+    <string name="lomo">Lomo</string>
+    <!-- System Message -->
+    <string name="save_success">Image saved with success</string>
+    <string name="save_fail">Error during image saving</string>
+
+</resources>

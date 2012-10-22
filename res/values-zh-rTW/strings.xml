@@ -1,0 +1,16 @@
+<resources>
+
+    <string name="app_name">PhotoEffects</string>
+    <string name="load_picture">載入圖片</string>
+    <string name="save_picture">儲存圖片</string>
+    <string name="menu_exit">結束</string>
+    <!-- Effect List -->
+    <string name="none">不使用</string>
+    <string name="grayscale">灰階</string>
+    <string name="negative">負片</string>
+    <string name="lomo">Lomo</string>
+    <!-- System Message -->
+    <string name="save_success">圖片儲存成功</string>
+    <string name="save_fail">圖片儲存失敗</string>
+
+</resources>
